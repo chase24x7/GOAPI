@@ -1,0 +1,12 @@
+﻿<Queries>  
+
+  <SQL ID="Get_Categories">
+    SELECT * FROM Category order by Priority asc
+  </SQL>
+
+  <SQL ID="Validate_AppUser">
+    SELECT * FROM AppUser WHERE username = '{0}' and password = '{1}'
+  </SQL>
+
+</Queries>
+

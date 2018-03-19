@@ -1,0 +1,13 @@
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\bin\Debug\Dapper.dll
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\bin\Debug\Dapper.xml
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\.netProjects\GracioOrnatesMvc\HMAPI\DataAccess\obj\Debug\DataAccess.pdb
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\bin\Debug\Dapper.dll
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\bin\Debug\Dapper.xml
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\.netProjects\GracioOrnatesMvc\GOAPI\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOAPI", "GOAPI\GOAPI.csproj", "{134328B2-2D18-4488-B424-BA35BE5A022C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D09930B9-46AB-4125-8ECB-AA56C8F76573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134328B2-2D18-4488-B424-BA35BE5A022C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134328B2-2D18-4488-B424-BA35BE5A022C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134328B2-2D18-4488-B424-BA35BE5A022C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134328B2-2D18-4488-B424-BA35BE5A022C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09930B9-46AB-4125-8ECB-AA56C8F76573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09930B9-46AB-4125-8ECB-AA56C8F76573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09930B9-46AB-4125-8ECB-AA56C8F76573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09930B9-46AB-4125-8ECB-AA56C8F76573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
